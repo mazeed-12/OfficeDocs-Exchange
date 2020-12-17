@@ -80,7 +80,7 @@ Determine what version of TLS your device supports by checking the device guide 
 
 #### How SMTP AUTH client submission works
 
-The following diagram gives you a conceptual overview of what you're environment will look like.
+The following diagram gives you a conceptual overview of what your environment will look like.
 
 ![Shows how a multifunction printer connects to Microsoft 365 or Office 365 using SMTP client submission.](../media/d5c5a7fa-aba4-4bf4-976f-4c7128fcab2d.png)
 
